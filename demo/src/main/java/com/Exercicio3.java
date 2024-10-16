@@ -53,8 +53,6 @@ public void ex3Result(){
         System.out.println("Menor faturamento: R$ " + menorFaturamento);
         System.out.println("Maior faturamento: R$ " + maiorFaturamento);
         System.out.println("Dias acima da média: " + diasAcimaDaMédia);
-
-        System.out.println(médiaFaturamento);
     
     } catch (Exception e) {
     throw new RuntimeException(e);

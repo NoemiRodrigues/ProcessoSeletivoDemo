@@ -10,5 +10,11 @@ public class Main {
 
         Exercicio3 ex3 = new Exercicio3();
         ex3.ex3Result();
+
+        Exercicio4 ex4 = new Exercicio4();
+        ex4.ex4Result();
+
+        Exercicio5 ex5 = new Exercicio5();
+       ex5.ex5Result();
     }
 }
